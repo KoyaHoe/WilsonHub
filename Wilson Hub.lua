@@ -5,4 +5,4 @@ for PlaceID, Execute in pairs(Games) do
         loadstring(game:HttpGet(Execute))()
     end
 end
--- By Speed Hub X (we skidded 'em)
+-- By Speed Hub X (we stealed 'em)
