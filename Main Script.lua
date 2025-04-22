@@ -1,4 +1,4 @@
-local Games = loadstring(game:HttpGet("soon"))()
+local Games = loadstring(game:HttpGet("https://raw.githubusercontent.com/KoyaHoe/WilsonHub/main/GamesSupported.lua"))()
 
 for PlaceID, Execute in pairs(Games) do
     if PlaceID == game.PlaceId then
